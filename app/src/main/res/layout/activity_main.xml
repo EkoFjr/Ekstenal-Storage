@@ -38,7 +38,7 @@
         android:layout_height="210dp"
         android:background="@color/white"
         android:ems="10"
-        android:hint=""
+        android:hint="Hasil Baca Text"
         android:inputType="textMultiLine"
         android:padding="5dp"
         android:textColorHint="#000000"/>
